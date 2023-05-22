@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Kavinkumar from Dharapuram<br><br>- 🔭 I’m Studing in KEC<br>- 📚 I'm currently Pursuing MCA<br>- ⚡ In my free time I do some Code<br>- 👨‍💻 My Portfolio are available at [https://bit.ly/KavinPortfolio]<br>- 💬 Ask me about Python,Bootstrap<br>- 📄 Know about my experiences [https://rxresu.me/r/FBTJmrfK]</p>
+<p align="left">I'm Kavinkumar from Dharapuram<br><br>- 🔭 I’m Studing in KEC<br>- 📚 I'm currently Pursuing MCA<br>- ⚡ In my free time I do some Code<br>- 👨‍💻 My Portfolio are available at [https://bit.ly/Kevinportfolio]<br>- 💬 Ask me about Python,Bootstrap<br>- 📄 Know about my experiences [https://rxresu.me/r/FBTJmrfK]</p>
 
 ###
 
