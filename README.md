@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Kavinkumar from Dharapuram<br><br>- 🔭 I’m Studing in KEC<br>- 📚 I'm currently Pursuing MCA<br>- ⚡ And Doing Intern in Thoughtscrest Software Pv Ltd as Associate Software Engineer Intern<br>- 👨‍💻 My Portfolio are available at [https://bit.ly/kavinportfolio]<br>- 💬 Ask me about Python,Bootstrap<br>- 📄 Know about my experiences [https://rxresu.me/r/FBTJmrfK]</p>
+<p align="left">I'm Kavinkumar from Dharapuram<br><br>- 🔭 I’m Studing in KEC<br>- 📚 I'm currently Pursuing MCA<br>- ⚡ And Doing Intern in Thoughtscrest Software Pv Ltd as Associate Software Engineer <br>- 👨‍💻 My Portfolio are available at [https://bit.ly/kavinportfolio]<br>- 💬 Ask me about Python,Bootstrap<br>- 📄 Know about my experiences [https://rxresu.me/r/FBTJmrfK]</p>
 
 ###
 
